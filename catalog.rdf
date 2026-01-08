@@ -36,7 +36,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/SOCI"/>
     <dct:license/>
     <dct:title>Elettori</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/RTDSANCESARIO/Open-Data-del-Comune-di-San-Cesario-di-Lecce/blob/main/Dataset.csv/"/>
+    <dcat:landingPage rdf:resource="https://raw.githubusercontent.com/RTDSANCESARIO/Open-Data-del-Comune-di-San-Cesario-di-Lecce/refs/heads/main/Dataset.csv/"/>
     <dct:description>Fornisce informazioni relative agli Elettori del Comune di San Cesario di Lecce</dct:description>
     <dct:identifier>c_h793:elettori</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
@@ -73,7 +73,7 @@
     <dcat:distribution rdf:resource="https://github.com/RTDSANCESARIO/Open-Data-del-Comune-di-San-Cesario-di-Lecce/elettori/csv2"/>
   </dcatapit:Dataset>
   <dcatapit:Distribution rdf:about="https://github.com/RTDSANCESARIO/Open-Data-del-Comune-di-San-Cesario-di-Lecce/elettori/csv2">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/RTDSANCESARIO/Open-Data-del-Comune-di-San-Cesario-di-Lecce/refs/heads/main/Dataset.csv"/>
+    <dcat:accessURL rdf:resource="https://github.com/RTDSANCESARIO/Open-Data-del-Comune-di-San-Cesario-di-Lecce/blob/main/Dataset.csv"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
